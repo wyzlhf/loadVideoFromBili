@@ -47,29 +47,7 @@ def get_list_video(path, url):
 
 
 if __name__ == '__main__':
-
-    path = r'D:\Video\【MIT公开课】14.772发展经济学宏观经济·2013年春（完结·中英字幕·机翻）'
-    url = 'https://www.bilibili.com/video/BV1Jy4y1r7xP'
-
-    # path = r'D:\Video\【MIT公开课】RES.LL-005大数据和机器学习中的数学·IAP2020（完结·中英字幕·机翻）'
-    # url = 'https://www.bilibili.com/video/BV17k4y1B7kC'
-
-    # path = r'D:\Video\【MIT公开课】15.401金融理论I·2008年秋（完结·中英字幕·机翻）'
-    # url = 'https://www.bilibili.com/video/BV1vD4y1d7HT'
-
-    # path = r'D:\Video\【哈佛大学】ECON1152利用大数据解决经济和社会问题|全18讲|中英字幕'
-    # url = 'https://www.bilibili.com/video/BV1w7411w74Z'
-
-    # path = r'D:\Video\【MIT公开课】6.S897机器学习之医疗保健·2019年春（完结·中英字幕·机翻）'
-    # url = 'https://www.bilibili.com/video/BV1YK4y1E7UK'
-
-    # path = r'D:\Video\强化学习Reinforcement_Learning|Winter2019'
-    # url = 'https://www.bilibili.com/video/BV1bb411M7tu'
-
-    # path = r'D:\Video\【MIT课程】深度学习导论(2020)高清合集中英字幕'
-    # url = 'https://www.bilibili.com/video/BV1Aa4y1v7W2'
-
-    # path = r'D:\Video\最新React_Native前端进阶系列基础教程（33天全）'
-    # url = 'https://www.bilibili.com/video/BV1AK4y1p7dV'
+    path = r'D:\Video\牛津大学公开课：康德的纯粹理性批判[第4集]先天综合判断如何成为可能'
+    url = 'https://www.bilibili.com/video/BV1ux411m7Tc'
 
     get_list_video(path, url)

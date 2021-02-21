@@ -1,12 +1,13 @@
 import os
 
-path = r"D:\Video\[中英字幕]C++数据结构与算法初学者完整课程"
+path = r"D:\Video\南京大学_欧陆哲学与英美哲学_全134讲_主讲-陈亚军.王恒"
 
 
 def the_fist_rename():
     for file in os.listdir(path):
         file_name = os.path.join(path, file)
-        new_file_name = os.path.join(path, file).replace("(中英字幕) C-- 数据结构与算法初学者完整课程 (", "")
+        new_file_name = os.path.join(path, file)\
+            .replace("南京大学 欧陆哲学与英美哲学 全134讲 主讲-陈亚军.王恒 视频教程 (", "")
         os.rename(file_name, new_file_name)
 
 
