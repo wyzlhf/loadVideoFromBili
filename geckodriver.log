@@ -620,3 +620,1513 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1615029282109	Marionette	INFO	Listening on port 8480
 1615029282449	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.4367f08f.js, line 0: Successfully compiled asm.js code (total compilation time 23ms)
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1615029441021	Marionette	INFO	Stopped listening on port 8480
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615030266409	geckodriver	INFO	Listening on 127.0.0.1:9031
+1615030269448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilenk8PHD"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030270916	Marionette	INFO	Listening on port 9039
+1615030270972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030274961	Marionette	INFO	Stopped listening on port 9039
+1615030275572	geckodriver	INFO	Listening on 127.0.0.1:9113
+1615030278605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileXdfWNy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030279945	Marionette	INFO	Listening on port 9129
+1615030280132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.3e626b80.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030284327	Marionette	INFO	Stopped listening on port 9129
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615030284857	geckodriver	INFO	Listening on 127.0.0.1:9196
+1615030287890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCMmEKg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030289280	Marionette	INFO	Listening on port 9207
+1615030289423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.07958bd4.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030293714	Marionette	INFO	Stopped listening on port 9207
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1615030294460	geckodriver	INFO	Listening on 127.0.0.1:9283
+1615030297469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1kJLdN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+1615030299280	Marionette	INFO	Listening on port 9296
+1615030299502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030303377	Marionette	INFO	Stopped listening on port 9296
+1615030304308	geckodriver	INFO	Listening on 127.0.0.1:9402
+1615030307318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilewLW53L"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030308746	Marionette	INFO	Listening on port 9414
+1615030308846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030312850	Marionette	INFO	Stopped listening on port 9414
+1615030313596	geckodriver	INFO	Listening on 127.0.0.1:9484
+1615030316608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecrkRWK"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030317965	Marionette	INFO	Listening on port 9492
+1615030318131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030321866	Marionette	INFO	Stopped listening on port 9492
+1615030322623	geckodriver	INFO	Listening on 127.0.0.1:9562
+1615030325658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletxBXFq"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030326984	Marionette	INFO	Listening on port 9570
+1615030327184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030330962	Marionette	INFO	Stopped listening on port 9570
+1615030331723	geckodriver	INFO	Listening on 127.0.0.1:9642
+1615030334752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehOZRBM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030336249	Marionette	INFO	Listening on port 9654
+1615030336284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030340812	Marionette	INFO	Stopped listening on port 9654
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Administrator\AppData\Local\Temp\rust_mozprofilehOZRBM\protections.sqlite
+1615030341622	geckodriver	INFO	Listening on 127.0.0.1:9727
+1615030344655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileneEtaN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030346062	Marionette	INFO	Listening on port 9735
+1615030346194	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030350424	Marionette	INFO	Stopped listening on port 9735
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Administrator\AppData\Local\Temp\rust_mozprofileneEtaN\protections.sqlite
+1615030351180	geckodriver	INFO	Listening on 127.0.0.1:9806
+1615030354189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemU9VbI"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+1615030356090	Marionette	INFO	Listening on port 9824
+1615030356228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030360173	Marionette	INFO	Stopped listening on port 9824
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615030360838	geckodriver	INFO	Listening on 127.0.0.1:9901
+1615030363835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemdW5Dm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030365793	Marionette	INFO	Listening on port 9910
+1615030365879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030369718	Marionette	INFO	Stopped listening on port 9910
+1615030370446	geckodriver	INFO	Listening on 127.0.0.1:9980
+1615030373479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehKZjIZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030375069	Marionette	INFO	Listening on port 9988
+1615030375519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.3e626b80.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030379379	Marionette	INFO	Stopped listening on port 9988
+1615030380186	geckodriver	INFO	Listening on 127.0.0.1:10059
+1615030383190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileAY4C7o"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+1615030385010	Marionette	INFO	Listening on port 10067
+1615030385228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.3e626b80.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030389324	Marionette	INFO	Stopped listening on port 10067
+1615030390012	geckodriver	INFO	Listening on 127.0.0.1:10141
+1615030393033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilesoIuNG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030394483	Marionette	INFO	Listening on port 10149
+1615030394567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030398440	Marionette	INFO	Stopped listening on port 10149
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615030399190	geckodriver	INFO	Listening on 127.0.0.1:10217
+1615030402211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileK5xgy9"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030403643	Marionette	INFO	Listening on port 10225
+1615030403738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.07958bd4.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030408710	Marionette	INFO	Stopped listening on port 10225
+1615030409344	geckodriver	INFO	Listening on 127.0.0.1:10294
+1615030412368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegjZ0TN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030413772	Marionette	INFO	Listening on port 10302
+1615030413894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.3e626b80.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030418351	Marionette	INFO	Stopped listening on port 10302
+1615030419140	geckodriver	INFO	Listening on 127.0.0.1:10370
+1615030422151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3TX2rY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 131: Error: No DOM node set for aPlacesNode.
+node.type: 0. node.parent: [xpconnect wrapped nsINavHistoryResultNode]
+1615030424488	Marionette	INFO	Listening on port 10379
+1615030424812	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.ec835bf9.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.ec835bf9.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.ec835bf9.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.4367f08f.js, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.ec835bf9.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.ec835bf9.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.ec835bf9.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.ec835bf9.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.ec835bf9.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.ec835bf9.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030429379	Marionette	INFO	Stopped listening on port 10379
+1615030430051	geckodriver	INFO	Listening on 127.0.0.1:10488
+1615030433089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebSacmu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030434491	Marionette	INFO	Listening on port 10496
+1615030434621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030438906	Marionette	INFO	Stopped listening on port 10496
+1615030439544	geckodriver	INFO	Listening on 127.0.0.1:10556
+1615030442565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileY8Pu43"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030443926	Marionette	INFO	Listening on port 10565
+1615030444093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030448172	Marionette	INFO	Stopped listening on port 10565
+1615030448814	geckodriver	INFO	Listening on 127.0.0.1:10636
+1615030451843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileK3NAsF"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030453321	Marionette	INFO	Listening on port 10644
+1615030453380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030457925	Marionette	INFO	Stopped listening on port 10644
+[Child 3300, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1615030458552	geckodriver	INFO	Listening on 127.0.0.1:10717
+1615030461562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileJuKhwW"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030462976	Marionette	INFO	Listening on port 10725
+1615030463096	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030467564	Marionette	INFO	Stopped listening on port 10725
+1615030468216	geckodriver	INFO	Listening on 127.0.0.1:10803
+1615030471236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHTFlIo"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030472635	Marionette	INFO	Listening on port 10811
+1615030472760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030477305	Marionette	INFO	Stopped listening on port 10811
+1615030478151	geckodriver	INFO	Listening on 127.0.0.1:10887
+1615030481203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileFgtE5q"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030483012	Marionette	INFO	Listening on port 10900
+1615030483247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.07958bd4.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030487400	Marionette	INFO	Stopped listening on port 10900
+1615030488039	geckodriver	INFO	Listening on 127.0.0.1:10973
+1615030491070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegKPfJm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030492578	Marionette	INFO	Listening on port 10981
+1615030492615	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.15e42479.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030496604	Marionette	INFO	Stopped listening on port 10981
+1615030497238	geckodriver	INFO	Listening on 127.0.0.1:11048
+1615030500250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0Vrrv4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030502090	Marionette	INFO	Listening on port 11057
+1615030502297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030506258	Marionette	INFO	Stopped listening on port 11057
+1615030507012	geckodriver	INFO	Listening on 127.0.0.1:11126
+1615030510033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDWYVaa"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030511736	Marionette	INFO	Listening on port 11135
+1615030512085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030516275	Marionette	INFO	Stopped listening on port 11135
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615030517018	geckodriver	INFO	Listening on 127.0.0.1:11209
+1615030520045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileJ8pvco"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030521848	Marionette	INFO	Listening on port 11217
+1615030522095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.07958bd4.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030526185	Marionette	INFO	Stopped listening on port 11217
+1615030526819	geckodriver	INFO	Listening on 127.0.0.1:11293
+1615030529840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1qsO5f"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030531680	Marionette	INFO	Listening on port 11301
+1615030531876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 23ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030536311	Marionette	INFO	Stopped listening on port 11301
+1615030537132	geckodriver	INFO	Listening on 127.0.0.1:11374
+1615030540151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileUGfPCg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030541625	Marionette	INFO	Listening on port 11386
+1615030541682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030547359	Marionette	INFO	Stopped listening on port 11386
+1615030548010	geckodriver	INFO	Listening on 127.0.0.1:11458
+1615030551030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHAbIBk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030552433	Marionette	INFO	Listening on port 11466
+1615030552567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.3e626b80.js, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030557174	Marionette	INFO	Stopped listening on port 11466
+JavaScript error: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 2: NS_ERROR_NOT_INITIALIZED: 
+1615030557872	geckodriver	INFO	Listening on 127.0.0.1:11547
+1615030560908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3uxQ2a"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030562278	Marionette	INFO	Listening on port 11555
+1615030562439	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030566831	Marionette	INFO	Stopped listening on port 11555
+1615030567568	geckodriver	INFO	Listening on 127.0.0.1:11634
+1615030570612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileywYCPU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030572001	Marionette	INFO	Listening on port 11642
+1615030572149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030576304	Marionette	INFO	Stopped listening on port 11642
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615030576937	geckodriver	INFO	Listening on 127.0.0.1:11712
+1615030579965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilesXXikz"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030581325	Marionette	INFO	Listening on port 11720
+1615030581497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030585345	Marionette	INFO	Stopped listening on port 11720
+1615030585974	geckodriver	INFO	Listening on 127.0.0.1:11793
+1615030589007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileHmFYJk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030590330	Marionette	INFO	Listening on port 11801
+1615030590531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030594735	Marionette	INFO	Stopped listening on port 11801
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615030595513	geckodriver	INFO	Listening on 127.0.0.1:11869
+1615030598525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZGjbT2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030599856	Marionette	INFO	Listening on port 11877
+1615030600049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030604268	Marionette	INFO	Stopped listening on port 11877
+1615030604941	geckodriver	INFO	Listening on 127.0.0.1:11954
+1615030607968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileMDHXER"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030609353	Marionette	INFO	Listening on port 11962
+1615030609503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.15e42479.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030613658	Marionette	INFO	Stopped listening on port 11962
+1615030614297	geckodriver	INFO	Listening on 127.0.0.1:12035
+1615030617330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilejTEXtk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030618728	Marionette	INFO	Listening on port 12043
+1615030618861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.3e626b80.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030623506	Marionette	INFO	Stopped listening on port 12043
+1615030624372	geckodriver	INFO	Listening on 127.0.0.1:12116
+1615030627396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZQqvCY"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030628796	Marionette	INFO	Listening on port 12124
+1615030628923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030633068	Marionette	INFO	Stopped listening on port 12124
+JavaScript error: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615030633992	geckodriver	INFO	Listening on 127.0.0.1:12198
+1615030637024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1RNM6a"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030638681	Marionette	INFO	Listening on port 12207
+1615030639055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.07958bd4.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030643199	Marionette	INFO	Stopped listening on port 12207
+1615030643994	geckodriver	INFO	Listening on 127.0.0.1:12288
+1615030647023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOcCDhB"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030648849	Marionette	INFO	Listening on port 12297
+1615030649057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030653237	Marionette	INFO	Stopped listening on port 12297
+1615030654111	geckodriver	INFO	Listening on 127.0.0.1:12388
+1615030657132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileaysoQ8"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030658692	Marionette	INFO	Listening on port 12396
+1615030659175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.3e626b80.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.de3c30de.js?v=20210305, line 146: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030663651	Marionette	INFO	Stopped listening on port 12396
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615030664445	geckodriver	INFO	Listening on 127.0.0.1:12512
+1615030667476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileeRzyhd"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030668886	Marionette	INFO	Listening on port 12521
+1615030669004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 27ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030673056	Marionette	INFO	Stopped listening on port 12521
+1615030673887	geckodriver	INFO	Listening on 127.0.0.1:12589
+1615030676904	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileW5cK4m"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030678358	Marionette	INFO	Listening on port 12598
+1615030678433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030683481	Marionette	INFO	Stopped listening on port 12598
+1615030684116	geckodriver	INFO	Listening on 127.0.0.1:12675
+1615030687147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileG2cjUA"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030688667	Marionette	INFO	Listening on port 12683
+1615030689179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030693822	Marionette	INFO	Stopped listening on port 12683
+JavaScript error: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 2: NS_ERROR_NOT_INITIALIZED: 
+1615030694434	geckodriver	INFO	Listening on 127.0.0.1:12755
+1615030697457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQ07pln"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030698881	Marionette	INFO	Listening on port 12763
+1615030698991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 24ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030703644	Marionette	INFO	Stopped listening on port 12763
+1615030704452	geckodriver	INFO	Listening on 127.0.0.1:12838
+1615030707484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezBypIf"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030709022	Marionette	INFO	Listening on port 12848
+1615030709527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030714006	Marionette	INFO	Stopped listening on port 12848
+1615030714712	geckodriver	INFO	Listening on 127.0.0.1:12933
+1615030717728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileeFdcDZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030719324	Marionette	INFO	Listening on port 12941
+1615030719767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.07958bd4.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.366d942d.js?v=20201013, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030723923	Marionette	INFO	Stopped listening on port 12941
+1615030724550	geckodriver	INFO	Listening on 127.0.0.1:13019
+1615030727572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNzeaGC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030729146	Marionette	INFO	Listening on port 13027
+1615030729606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.81334d02.js, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.070ea7c1.js?v=20210111, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1615030733710	Marionette	INFO	Stopped listening on port 13027
+1615030734461	geckodriver	INFO	Listening on 127.0.0.1:13098
+1615030737476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5imgnv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615030739024	Marionette	INFO	Listening on port 13106
+1615030739503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/seed/jinkela/commentpc/comment.min.js, line 2: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/widgets/jsc-player.15e42479.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s1.hdslb.com/bfs/static/player/main/video.cca55ded.js?v=20210305, line 145: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
