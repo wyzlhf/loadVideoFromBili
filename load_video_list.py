@@ -8,13 +8,220 @@ def get_list_video(path, url):
 
 
 if __name__ == '__main__':
+    list_item = [
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十四.1】唯物史观-马克思', 'url': 'https://www.bilibili.com/video/BV1Ki4y1b7G4'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学六.4】思考绵延-柏格森', 'url': 'https://www.bilibili.com/video/BV1Uk4y1r7zP'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学六.3】那个个体-克尔凯郭尔', 'url': 'https://www.bilibili.com/video/BV1tK4y1b7aV'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学七.7】时间与叙述-利科', 'url': 'https://www.bilibili.com/video/BV1GZ4y1474h'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学七.6】视域融合-伽达默尔', 'url': 'https://www.bilibili.com/video/BV1XQ4y1K7i3'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学七.5】知觉世界-梅洛庞蒂', 'url': 'https://www.bilibili.com/video/BV1RT4y137JR'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学七.4】为他存有-列维纳斯', 'url': 'https://www.bilibili.com/video/BV1Ba4y1t7ZA'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十三.3】解构主义-德里达', 'url': 'https://www.bilibili.com/video/BV1kE411F7xk'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十三.1】镜像三界-拉康', 'url': 'https://www.bilibili.com/video/BV12E411M75s'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十二.3】结构主义人类学-列维斯特劳斯',
+         'url': 'https://www.bilibili.com/video/BV1PE411n7m6'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十二.2】精神分析-弗洛伊德', 'url': 'https://www.bilibili.com/video/BV17j411f7mf'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十二.1】结构主义语言学-索绪尔', 'url': 'https://www.bilibili.com/video/BV1s7411n7jk'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十一.3】科学研究纲领-拉卡托斯', 'url': 'https://www.bilibili.com/video/BV1w7411b7wf'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十一.2】范式转移-库恩', 'url': 'https://www.bilibili.com/video/BV1b7411W7qg'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十一.1】证伪主义-波普尔', 'url': 'https://www.bilibili.com/video/BV1b7411k7Bg'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十.3】逻辑实用主义-奎因', 'url': 'https://www.bilibili.com/video/BV1X7411v7z9'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十.2】日常语言学派-牛津学派', 'url': 'https://www.bilibili.com/video/BV1RJ41157h4'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学十.1】逻辑实证主义-维也纳学派', 'url': 'https://www.bilibili.com/video/BV1nJ411e7bV'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学九.3】语言游戏-维特根斯坦', 'url': 'https://www.bilibili.com/video/BV1MJ411479n'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学九.2】摹状词理论-罗素', 'url': 'https://www.bilibili.com/video/BV1nJ411k7JH'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学九.1】数理逻辑-弗雷格', 'url': 'https://www.bilibili.com/video/BV15J411v7hf'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学八.3】实用主义-杜威', 'url': 'https://www.bilibili.com/video/BV1jJ411z7Jx'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学八.2】彻底经验主义-詹姆斯', 'url': 'https://www.bilibili.com/video/BV1BJ411973c'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学八.1】意义就是效果-皮尔士', 'url': 'https://www.bilibili.com/video/BV1SJ41127zS'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学七.3】存在主义-萨特', 'url': 'https://www.bilibili.com/video/BV1uE411i7cc'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学七.2】向死而在-海德格尔', 'url': 'https://www.bilibili.com/video/BV1zE411q7HC'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学七.1】现象学-胡塞尔', 'url': 'https://www.bilibili.com/video/BV1PE411h7m4'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学五.4】绝对精神-黑格尔', 'url': 'https://www.bilibili.com/video/BV1pE41167g7'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学六.1】意志主义-叔本华', 'url': 'https://www.bilibili.com/video/BV1ME411y7Nu'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学六.2】上帝已死-尼采', 'url': 'https://www.bilibili.com/video/BV1kE411C7cS'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学五.3】绝对理性-谢林', 'url': 'https://www.bilibili.com/video/BV1UE41197gG'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学五.2】知识学-费希特', 'url': 'https://www.bilibili.com/video/BV1rJ411g7KH'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学五.1】三大批判-康德', 'url': 'https://www.bilibili.com/video/BV18J411c7XX'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学四.3】怀疑论-休谟', 'url': 'https://www.bilibili.com/video/BV1c4411y7Ez'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学四.2】存在即被感知-贝克莱', 'url': 'https://www.bilibili.com/video/BV1N4411z7Sq'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学四.1】白板说-洛克', 'url': 'https://www.bilibili.com/video/BV1k4411B7RD'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学三.3】单子论-莱布尼茨', 'url': 'https://www.bilibili.com/video/BV1j44116764'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学三.2】自然神论-斯宾诺莎', 'url': 'https://www.bilibili.com/video/BV1s4411k7TN'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学三.1】我思故我在-笛卡尔', 'url': 'https://www.bilibili.com/video/BV1o4411r7o5'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学二.2】经院哲学-托马斯·阿奎纳', 'url': 'https://www.bilibili.com/video/BV1B4411r7n1'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学二.1】上帝之城-奥古斯丁', 'url': 'https://www.bilibili.com/video/BV1i4411r7ih'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学一.3】形而上学-亚里士多德', 'url': 'https://www.bilibili.com/video/BV1G4411r7Gr'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学一.2】理念世界—柏拉图', 'url': 'https://www.bilibili.com/video/BV1W4411R7DC'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学一.1】认识你自己—苏格拉底', 'url': 'https://www.bilibili.com/video/BV1G4411R7bA'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学】_分支哲学的简单认识', 'url': 'https://www.bilibili.com/video/BV1C441197hE'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学】__元哲学的基本认识', 'url': 'https://www.bilibili.com/video/BV1r4411975S'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【西方哲学】西方哲学史与二元对立心态', 'url': 'https://www.bilibili.com/video/BV1z441197aH'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\先秦诸子思想概论', 'url': 'https://www.bilibili.com/video/BV1V441197wh'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【AMV】末日时在做什么？有没有空？可以来拯救吗？',
+         'url': 'https://www.bilibili.com/video/BV1ut411X739'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\【AMV】末日时在做什么？有没有空？可以来拯救吗？',
+         'url': 'https://www.bilibili.com/video/BV1jt41197eC'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\开局一辆车，一条狗（尤里大金毛），我就是传奇', 'url': 'https://www.bilibili.com/video/BV1tt411y7Zj'},
+        {'path': 'D:\\Video\\西方哲学专题讲座\\\\C金钱掌控-金融街战斗1', 'url': 'https://www.bilibili.com/video/BV17t41117Qh'}]
 
-    path = r'D:\Video\【中英字幕】哈佛大学本科高年级课程Economics_1723：Capital-Markets'
-    url = 'https://www.bilibili.com/video/BV1up4y1s77N'
 
-    # path = r'D:\Video\邓晓芒讲康德《判断力批判》'
-    # url = 'https://www.bilibili.com/video/BV1H4411v7AS'
+    # for item in list_item:
+    #     # print(item)
+    #     print('path=r'+'"'+item['path']+'"'+'\n'+'url='+'"'+item['url']+'"'+'\n\n')
 
-    # path = r'D:\Video\邓晓芒讲：古希腊哲学史'
-    # url = 'https://www.bilibili.com/video/BV1x4411K75U'
+    path = r"D:\Video\西方哲学专题讲座\\【西方哲学六.4】思考绵延-柏格森"
+    url = "https://www.bilibili.com/video/BV1Uk4y1r7zP"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学六.3】那个个体-克尔凯郭尔"
+    # url = "https://www.bilibili.com/video/BV1tK4y1b7aV"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学七.7】时间与叙述-利科"
+    # url = "https://www.bilibili.com/video/BV1GZ4y1474h"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学七.6】视域融合-伽达默尔"
+    # url = "https://www.bilibili.com/video/BV1XQ4y1K7i3"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学七.5】知觉世界-梅洛庞蒂"
+    # url = "https://www.bilibili.com/video/BV1RT4y137JR"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学七.4】为他存有-列维纳斯"
+    # url = "https://www.bilibili.com/video/BV1Ba4y1t7ZA"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十三.3】解构主义-德里达"
+    # url = "https://www.bilibili.com/video/BV1kE411F7xk"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十三.1】镜像三界-拉康"
+    # url = "https://www.bilibili.com/video/BV12E411M75s"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十二.3】结构主义人类学-列维斯特劳斯"
+    # url = "https://www.bilibili.com/video/BV1PE411n7m6"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十二.2】精神分析-弗洛伊德"
+    # url = "https://www.bilibili.com/video/BV17j411f7mf"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十二.1】结构主义语言学-索绪尔"
+    # url = "https://www.bilibili.com/video/BV1s7411n7jk"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十一.3】科学研究纲领-拉卡托斯"
+    # url = "https://www.bilibili.com/video/BV1w7411b7wf"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十一.2】范式转移-库恩"
+    # url = "https://www.bilibili.com/video/BV1b7411W7qg"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十一.1】证伪主义-波普尔"
+    # url = "https://www.bilibili.com/video/BV1b7411k7Bg"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十.3】逻辑实用主义-奎因"
+    # url = "https://www.bilibili.com/video/BV1X7411v7z9"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十.2】日常语言学派-牛津学派"
+    # url = "https://www.bilibili.com/video/BV1RJ41157h4"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学十.1】逻辑实证主义-维也纳学派"
+    # url = "https://www.bilibili.com/video/BV1nJ411e7bV"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学九.3】语言游戏-维特根斯坦"
+    # url = "https://www.bilibili.com/video/BV1MJ411479n"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学九.2】摹状词理论-罗素"
+    # url = "https://www.bilibili.com/video/BV1nJ411k7JH"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学九.1】数理逻辑-弗雷格"
+    # url = "https://www.bilibili.com/video/BV15J411v7hf"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学八.3】实用主义-杜威"
+    # url = "https://www.bilibili.com/video/BV1jJ411z7Jx"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学八.2】彻底经验主义-詹姆斯"
+    # url = "https://www.bilibili.com/video/BV1BJ411973c"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学八.1】意义就是效果-皮尔士"
+    # url = "https://www.bilibili.com/video/BV1SJ41127zS"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学七.3】存在主义-萨特"
+    # url = "https://www.bilibili.com/video/BV1uE411i7cc"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学七.2】向死而在-海德格尔"
+    # url = "https://www.bilibili.com/video/BV1zE411q7HC"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学七.1】现象学-胡塞尔"
+    # url = "https://www.bilibili.com/video/BV1PE411h7m4"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学五.4】绝对精神-黑格尔"
+    # url = "https://www.bilibili.com/video/BV1pE41167g7"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学六.1】意志主义-叔本华"
+    # url = "https://www.bilibili.com/video/BV1ME411y7Nu"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学六.2】上帝已死-尼采"
+    # url = "https://www.bilibili.com/video/BV1kE411C7cS"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学五.3】绝对理性-谢林"
+    # url = "https://www.bilibili.com/video/BV1UE41197gG"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学五.2】知识学-费希特"
+    # url = "https://www.bilibili.com/video/BV1rJ411g7KH"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学五.1】三大批判-康德"
+    # url = "https://www.bilibili.com/video/BV18J411c7XX"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学四.3】怀疑论-休谟"
+    # url = "https://www.bilibili.com/video/BV1c4411y7Ez"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学四.2】存在即被感知-贝克莱"
+    # url = "https://www.bilibili.com/video/BV1N4411z7Sq"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学四.1】白板说-洛克"
+    # url = "https://www.bilibili.com/video/BV1k4411B7RD"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学三.3】单子论-莱布尼茨"
+    # url = "https://www.bilibili.com/video/BV1j44116764"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学三.2】自然神论-斯宾诺莎"
+    # url = "https://www.bilibili.com/video/BV1s4411k7TN"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学三.1】我思故我在-笛卡尔"
+    # url = "https://www.bilibili.com/video/BV1o4411r7o5"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学二.2】经院哲学-托马斯·阿奎纳"
+    # url = "https://www.bilibili.com/video/BV1B4411r7n1"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学二.1】上帝之城-奥古斯丁"
+    # url = "https://www.bilibili.com/video/BV1i4411r7ih"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学一.3】形而上学-亚里士多德"
+    # url = "https://www.bilibili.com/video/BV1G4411r7Gr"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学一.2】理念世界—柏拉图"
+    # url = "https://www.bilibili.com/video/BV1W4411R7DC"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学一.1】认识你自己—苏格拉底"
+    # url = "https://www.bilibili.com/video/BV1G4411R7bA"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学】_分支哲学的简单认识"
+    # url = "https://www.bilibili.com/video/BV1C441197hE"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学】__元哲学的基本认识"
+    # url = "https://www.bilibili.com/video/BV1r4411975S"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【西方哲学】西方哲学史与二元对立心态"
+    # url = "https://www.bilibili.com/video/BV1z441197aH"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\先秦诸子思想概论"
+    # url = "https://www.bilibili.com/video/BV1V441197wh"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【AMV】末日时在做什么？有没有空？可以来拯救吗？"
+    # url = "https://www.bilibili.com/video/BV1ut411X739"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\【AMV】末日时在做什么？有没有空？可以来拯救吗？"
+    # url = "https://www.bilibili.com/video/BV1jt41197eC"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\开局一辆车，一条狗（尤里大金毛），我就是传奇"
+    # url = "https://www.bilibili.com/video/BV1tt411y7Zj"
+    #
+    # path = r"D:\Video\西方哲学专题讲座\\C金钱掌控-金融街战斗1"
+    # url = "https://www.bilibili.com/video/BV17t41117Qh"
+
+
     get_list_video(path, url)

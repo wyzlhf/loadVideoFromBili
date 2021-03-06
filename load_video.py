@@ -14,10 +14,10 @@ def execute_cmd_command(base_url, out_put_path, end_num, start_num=1):
 
 
 if __name__ == '__main__':
-    base_url = 'https://www.bilibili.com/video/BV1c4411d7jb'
-    out_put_path = r"D:\Video\计算机网络微课堂（有字幕无背景音乐版）"
-    start_num = 63
-    end_num = 74
+    base_url = 'https://www.bilibili.com/video/BV1qx411h7N5'
+    out_put_path = r"D:\Video\思想实验室——哲学\【邓晓芒】《精神现象学》句读_（全290讲）"
+    start_num = 285
+    end_num = 291
     lost_list = execute_cmd_command(
         base_url,
         out_put_path,

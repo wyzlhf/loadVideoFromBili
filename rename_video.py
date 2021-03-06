@@ -1,13 +1,13 @@
 import os
 
-path = r"D:\Video\南京大学_欧陆哲学与英美哲学_全134讲_主讲-陈亚军.王恒"
+path = r"D:\Video\思想实验室——哲学\【邓晓芒】《精神现象学》句读_（全290讲）"
 
 
 def the_fist_rename():
     for file in os.listdir(path):
         file_name = os.path.join(path, file)
         new_file_name = os.path.join(path, file)\
-            .replace("南京大学 欧陆哲学与英美哲学 全134讲 主讲-陈亚军.王恒 视频教程 (", "")
+            .replace("西方哲学思想史【持缓更新中/中英】- the great ideas of philosophy 01 From the Upanishads to Homer (", "")
         os.rename(file_name, new_file_name)
 
 
