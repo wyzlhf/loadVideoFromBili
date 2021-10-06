@@ -86,6 +86,7 @@ def get_video_list(vide_list_url,out_path=None):
 
 if __name__ == '__main__':
     # out_path = 'D:\Video\Python 并发编程实战'
+    # 列表视频标题中有'\'的会出问题，程序会当做文件路径处理，暂时未作处理
     video_url='https://www.bilibili.com/video/BV1sx411B752'
     # video_num=13
     # get_video(out_path,video_url,video_num)
