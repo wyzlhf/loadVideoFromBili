@@ -9,7 +9,6 @@ def norm_video_title(video_path):
     file_list=os.listdir(video_path)
     for file_name in file_list:
         old_file_name=video_path+'/'+file_name
-        print(old_file_name)
         pre_replace_text=re.findall("^.+\(P",old_file_name)[0][:-1]
         try:
             after_replace_text=re.findall(r'\)\.',old_file_name)[0]
@@ -17,7 +16,6 @@ def norm_video_title(video_path):
         except:
             new_file_name = old_file_name.replace(pre_replace_text, '')
         new_file_name=video_path+'/'+new_file_name
-        print(new_file_name)
         os.rename(old_file_name,new_file_name)
 
 def get_playlist_title(playlist_url):
@@ -25,6 +23,13 @@ def get_playlist_title(playlist_url):
     soup = BeautifulSoup(playlist_content, 'html.parser')
     title=soup.find_all('h1')[0]['title']
     return title
+
+def del_file(path,file_format='xml'):
+    files=os.listdir(path)
+    for file in files:
+        the_file_format=file.split('.')[-1]
+        if the_file_format==file_format:
+            os.remove(path+'/'+file)
 
 def creat_folder(folder_path):
     video_path = Path(folder_path.strip())
@@ -72,6 +77,7 @@ def get_video_list(vide_list_url,out_path=None):
         ], shell=True).communicate()
         video_path = './' + playlist_title
         norm_video_title(video_path)
+        del_file(video_path)
     else:
         creat_folder(out_path)
         subprocess.Popen([
@@ -82,14 +88,11 @@ def get_video_list(vide_list_url,out_path=None):
             vide_list_url
         ], shell=True).communicate()
         norm_video_title(out_path)
+        del_file(out_path)
 
 
 if __name__ == '__main__':
-    # out_path = 'D:\Video\Python 并发编程实战'
-    # 列表视频标题中有'\'的会出问题，程序会当做文件路径处理，暂时未作处理
-    video_url='https://www.bilibili.com/video/BV1sx411B752'
-    # video_num=13
-    # get_video(out_path,video_url,video_num)
-    get_video_list(video_url)
-    # creat_folder(out_path)
-    # get_playlist_title(video_url)
+    # video_url='https://www.bilibili.com/video/BV1q5411T7x8'
+    video_url='https://www.bilibili.com/video/BV1Lf4y1t7Mc'
+    path=r'D:\Video\【千锋】网络安全300集全套视频_零基础小白必备教程'
+    get_video_list(video_url,out_path=path)
