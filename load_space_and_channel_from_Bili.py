@@ -1,6 +1,7 @@
 import subprocess
 
 import requests
+from you_get import common
 
 
 # Space视频页面链接：https://space.bilibili.com/170920967/video
@@ -69,21 +70,37 @@ def get_space_or_channel_list(mid:int,season_id:int=None)->list:
                 bv_list.append(bvid)
         return bv_list
 
-def load_every_video(mid:int,season_id:int=None)->None:
+def load_every_video(mid:int,season_id:int=None,out_dir:str='./')->list:
     print('开始下载，请稍后。。。')
     bv_list=get_space_or_channel_list(mid,season_id)
+    fail_bvid:list=[]
     for bvid in bv_list:
         print('----------------------------------------------------------------')
         print(f'正在下载第{bv_list.index(bvid) + 1}/{len(bv_list)}个视频，请耐心等待……')
         video_url = 'https://www.bilibili.com/video/' + bvid
-        subprocess.Popen([
-            'you-get',
-            video_url
-        ]).communicate()
+        # subprocess.Popen([
+        #     'you-get',
+        #     video_url
+        # ]).communicate()
+        try:
+            common.any_download(url=video_url,
+                                output_dir=out_dir,
+                                merge=True,
+                                # stream_id='mp4',
+                                info_only=False
+                                )
+        except Exception as e:
+            print('发生错误')
+            print(e)
+            print('发生错误的BVID为：',bvid)
+            fail_bvid.append(bvid)
+    return fail_bvid
 
 
 if __name__ == '__main__':
     load_every_video(
-        170920967,
-        42926
+        131058159,
+        # 42926,
+        # 'D:\Video\123'
+        out_dir=r'D:\Video\123'
     )
